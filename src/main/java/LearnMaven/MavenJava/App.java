@@ -13,5 +13,7 @@ public class App
         System.out.println( "Hello wife!" );
         System.out.println( "Hello kiddo!" );
     }
-    
+    public void Automation2() {
+		System.out.println("selenium is a great tool");
+	}
 }
